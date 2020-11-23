@@ -3,7 +3,7 @@
 Follow these steps to get started:
 1. Download Visual Studio Code or any IDE that can run HTML and Javascript
 2. Download these files and put them under one folder
-3. DO NOT CHANGE ANYTHING IN THE 'manifest.json' file.
+3. DO NOT CHANGE ANYTHING IN THE 'manifest.json' file besides the icon on line 6 or line 8!
 4. Starting on line 93 of 'popup.html' file is where you can change the links or the icon.
 
 How to change icons:
